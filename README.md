@@ -4,8 +4,7 @@ One logo. Every icon your website needs — packed into a ready-to-drop-in folde
 ---
 
 ## Live Demo
-_Coming soon_
-
+- https://favicon-generator-rho.vercel.app/
 ---
 
 ## Features
